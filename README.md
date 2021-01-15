@@ -1,6 +1,7 @@
 # AirBnB_Seattle_DataAnalysis
 
 This project aims to analyse data provided by AirBnB website for the city of Seattle in USA. It can also be used to analyse data from other cities on AirBnB website. 
+### Libraries
 There are several questions asked in the notebook file and they are answered step by step using different libraries such as Matplotlib visualizations, Pandas dataFrames and 
 sklean(scikit-learn) library. 
 There are 2 models used for prediciting price of the properties using sklearn library. they are
