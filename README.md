@@ -1,6 +1,10 @@
 # AirBnB_Seattle_DataAnalysis
 
 This project aims to analyse data provided by AirBnB website for the city of Seattle in USA. It can also be used to analyse data from other cities on AirBnB website. 
+
+### Motivation
+we use the **CRISP-DM process(Cross Industry Standard Process for Data Mining)**  to answer the questions asked about the AirBnB data which can be used for their data analysis. 
+
 ### Libraries
 There are several questions asked in the notebook file and they are answered step by step using different libraries such as Matplotlib visualizations,seaborn, Pandas dataFrames and sklean(scikit-learn) library.
 
