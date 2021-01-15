@@ -32,5 +32,12 @@ In the code we have trided to answer the following questions:
 ### Conclusion
 
 There are lots of other questions which can be answered using this data and also improve our prediction...
+The listings data is used for predicting the price of the properties, but our test and train data predictions do not match and we think that because of the large columns (~1700 columns), the number of the rows(the size of the data) should be much bigger in order to get better predictions. 
 
-Thanks
+### Acknowledgement
+
+Many Thanks to **Udacity** for providing me this opportunity to work on this data and all the support.
+
+This project is open for public and I appreciate any comments and any developments that can help to provide better results from analysing the data. 
+
+
