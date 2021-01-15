@@ -21,3 +21,5 @@ In the code we have trided to answer the folloeing questions:
 3. How many properties are available during the Year?? How prices change during the calendar period??
 
 There are lots of other questions which can be answered using this data and also improve our prediction...
+
+Thanks
