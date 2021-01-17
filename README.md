@@ -1,3 +1,12 @@
+
+This is for Udacirt project reviewer:
+
+I submitted my Github Repo, But I could not submit my BlogPost via the system. The below url is the link for my BlogPost in Medium:
+
+https://jgolizadeh.medium.com/airbnb-properties-in-seattle-c281518c8b5b
+
+Thanks
+
 # AirBnB_Seattle_DataAnalysis
 
 This project aims to analyse data provided by AirBnB website for the city of Seattle in USA. It can also be used to analyse data from other cities on AirBnB website. 
