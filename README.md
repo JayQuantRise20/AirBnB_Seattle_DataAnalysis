@@ -1,3 +1,5 @@
+
+
 # AirBnB_Seattle_DataAnalysis
 
 This project aims to analyse data provided by AirBnB website for the city of Seattle in USA. It can also be used to analyse data from other cities on AirBnB website. 
@@ -25,9 +27,10 @@ In the code we have trided to answer the following questions:
 
 1. What features most influence on the price of the properties?
 
-2. which streets in Seattle host more guests than other streets? What is the average price of these popular streets? what time  they are more busier?
+2. How many properties are available during the Year? How prices change during the calendar period?
 
-3. How many properties are available during the Year?? How prices change during the calendar period??
+3. which streets in Seattle host more guests than other streets? What is the average price of these popular streets? 
+
 
 ### Conclusion
 
